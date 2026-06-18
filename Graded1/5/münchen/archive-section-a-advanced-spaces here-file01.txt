@@ -1,0 +1,10 @@
+category: münchen
+
+HISTORICAL ARCHIVES - File 1
+
+This is a test file for the reorganization exercise.
+Path: archive/section-a/advanced/spaces here/file01.txt
+Category: münchen
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -1,0 +1,10 @@
+category: scripts
+
+HISTORICAL ARCHIVES - File 16
+
+This is a test file for the reorganization exercise.
+Path: content/módulo-3/données/café-2024/file16.txt
+Category: scripts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
